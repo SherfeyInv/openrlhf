@@ -19,3 +19,4 @@ transformers==4.48.2
 transformers_stream_generator
 wandb
 wheel
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
