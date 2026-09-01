@@ -27,3 +27,4 @@ transformers==5.15.0
 transformers_stream_generator
 wandb
 wheel
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
